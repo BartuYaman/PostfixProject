@@ -21,6 +21,7 @@ d = a * ( b - c ) / 2 ;
         STEP 1 : CREATE POSTFIX
 
 Postfix:                                          Stack: Empty
+
 Postfix: a                                        Stack: Empty
 Postfix: a                                        Stack: *
 Postfix: a                                        Stack: * (
